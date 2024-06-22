@@ -1,4 +1,4 @@
-# Retinal Disease Classification Using Deep Learning
+# Manual Implementation of Neural Networks for Retinal Disease Detection
 
 ## Overview
 
